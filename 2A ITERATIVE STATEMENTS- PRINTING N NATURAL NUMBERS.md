@@ -1,3 +1,4 @@
+
 # Exp. No: 2a  
 ## ITERATIVE STATEMENTS – PRINTING N NATURAL NUMBERS
 
@@ -21,17 +22,13 @@ To create a Python program for printing `n` natural numbers using a `for` loop.
 ### 🧾 Program
 
 ```python
-#Reg.NO
-#Name
-#Write your Code here
 
+
+a = int(input())
+print("Natural Numbers are:")
+i = 1
+while i <= a:
+    print(i)
+    i += 1
 ```
 ### OUTPUT
-```
-
-```
-### RESULT
-```
-
-```
-
