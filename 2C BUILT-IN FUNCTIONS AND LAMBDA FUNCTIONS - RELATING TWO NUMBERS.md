@@ -1,3 +1,4 @@
+
 # Exp.No:2c
 ## BUILT-IN FUNCTIONS AND LAMBDA FUNCTIONS - RELATING TWO NUMBERS
 
@@ -16,25 +17,4 @@ To write a Python program to check the relation between two numbers — whether 
 4. The lambda function compares the numbers and prints:
    - If `x > y`, then it prints: "`num2` is smaller than `num1`".
    - Otherwise, it prints: "`num1` is smaller than `num2`".
-5. Call the lambda function by passing `num1` and `num2` as arguments.  
-6. Terminate the program.
-
----
-
-### PROGRAM
-
-```
-
-```
-
-### OUTPUT
-
-```
-
-```
-
-### RESULT
-
-```
-
-```
+5. Call the lambda function by passing `num1` and `num2` as arguments.
